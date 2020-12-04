@@ -4,7 +4,7 @@
 
 ---
 ## Preview:
-![Preview](./Assets/images/demo.png)
+![Preview](./assets/images/demo.png)
 
 ---
 
